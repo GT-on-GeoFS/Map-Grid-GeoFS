@@ -6,7 +6,7 @@ How to add it to GeoFS?
 2. Copy the coding that you get from the notepad file
 3. Paste coding in tampermonkey (web browser extention) 
 4. Save it and Open GeoFS
-A "ROUTE" tab should be next to your FMC 
+A "ROUTE" tab should be next to your "TALK" button
  
 How to use the Map Grid Extention?
 1. Make your route in Simbrief (https://www.simbrief.com/home/)
