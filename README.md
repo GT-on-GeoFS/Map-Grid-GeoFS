@@ -2,7 +2,7 @@
 Adds a route on your navigation for you to see where you are going using Simbreif 
 
 How to add it to GeoFS?
-1. Download, and open Map_Grid.txt file
+1. Download, click on the (zip) folder, and open Map_Grid.txt file
 2. Copy the coding that you get from the notepad file
 3. Paste coding in tampermonkey (web browser extention) 
 4. Save it and Open GeoFS
