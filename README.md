@@ -1,6 +1,8 @@
 # Map-Grid-GeoFS
 Adds a route on your navigation for you to see where you are going using Simbreif 
 
+**First off, I'd like to say This extention was not made by me, it was made by TKE587, all credit goes to him for making and developing the map grid extention**
+
 How to add it to GeoFS?
 1. Download, click on the (zip) folder, and open Map_Grid.txt file
 2. Copy the coding that you get from the notepad file
