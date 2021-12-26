@@ -6,10 +6,9 @@ Adds a route on your navigation for you to see where you are going using Simbrei
 **Secondly, this map extention is only compatible with SimBrief Coordinates. No other Coordinate type will work**
 
 <ins>How to add it to GeoFS?</ins>
-1. Download, click on the (zip) folder, and open Map_Grid.txt file
-2. Copy the coding that you get from the notepad file
-3. Paste coding in tampermonkey (web browser extention) 
-4. Save it and Open GeoFS
+1. Download, click on the (zip) folder, and you should find a .js file
+2. Drag the .js file into a new tampermonkey user script (web browser extention) 
+3. Save it and Open GeoFS
 A "ROUTE" tab should be next to your "TALK" button
  
 <ins>How to use the Map Grid Extention?</ins>
